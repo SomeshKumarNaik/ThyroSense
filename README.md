@@ -10,4 +10,4 @@ Thyroid Disease Anomaly Detection using Unsupervised Machine Learning
 
 ##  Results
 
-The Isolation Forest model successfully identifies anomalous thyroid patient records by learning the distribution of normal data without requiring labeled training samples.
+The Isolation Forest model successfully identifies anomalous thyroid patient records by learning the distribution of normal data without requiring labeled training samples
